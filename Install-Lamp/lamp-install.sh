@@ -1,0 +1,1 @@
+apt install php php-{mbstring, xml} mariadb apache2
